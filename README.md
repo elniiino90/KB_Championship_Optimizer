@@ -1,2 +1,2 @@
 # KB_Championship_Optimizer
-Lineup optimizer for Kickball Championship using Ligainsider Ratings
+Lineup optimizer for Kickbase Championship using Ligainsider Ratings
